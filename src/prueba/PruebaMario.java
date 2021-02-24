@@ -14,7 +14,7 @@ public class PruebaMario {
 		num=sc.nextInt();
 		num1=sc.nextInt();
 		
-		
+		System.out.println(num+num1);
 		
 	}
 	
